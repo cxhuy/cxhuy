@@ -8,7 +8,8 @@
 
 [webso.gg](https://webso.gg) - a website displaying insightful statistical comparisons of popular Korean web novel platforms
 
-[osu.gg](https://osu.gg) - a platform displaying entertaining statistics for the rhythm game ***osu!***
+[osu.gg](https://osu.gg) - a platform displaying entertaining statistics for the rhythm game ***osu!***<br/>
+*Site is currently down and needs renewal.*
 
 # Tech Stack
 
