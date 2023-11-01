@@ -1,5 +1,7 @@
 # About Me
-👋 Hi, I'm cxhuy!<br>💡 Web Development Enthusiast | Future Full Stack Developer<br>📚 Currently immersed in the world of web technologies<br>🌐 Creating digital experiences, one line of code at a time<br>🌱 Learning, building, and evolving my skills<br>🚀 On a mission to turn ideas into innovative web solutions
+👋 Hi, I'm cxhuy! <br>
+I'm a student studying web development seeking to become a full-stack developer in the near future. <br>
+Recently, I've been having a lot of fun making games in Godot!
 
 # Projects
 [terradle.com](https://terradle.com) - a wordle-like game inspired by the game ***Terraria***
@@ -10,6 +12,11 @@
 
 [osu.gg](https://osu.gg) - a platform displaying entertaining statistics for the rhythm game ***osu!***<br/>
 *Site is currently down and needs renewal.*
+
+# Games
+[PTD: Pinball Tower Defense](https://cxhuy.github.io/ptd_web_final/) - it's tower defense, but pinball. It's pinball, but tower defense.
+
+[Cursurvive](https://cxhuy.github.io/cursurvive_web/) - play as a mouse cursor and survive from a swarm of evil shutdown buttons! 
 
 # Tech Stack
 
