@@ -1,7 +1,5 @@
 # About Me
-👋 Hi, I'm cxhuy! <br>
-I'm a student studying web development seeking to become a full-stack developer in the near future. <br>
-Recently, I've been having a lot of fun making games in Godot!
+Hi, I'm cxhuy :) <br> I mostly do full-stack development, and recently I've been having a lot of fun making games in Godot!
 
 # Projects
 [terradle.com](https://terradle.com) - a wordle-like game inspired by the game ***Terraria***
