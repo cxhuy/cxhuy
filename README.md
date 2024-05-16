@@ -16,9 +16,9 @@ Hi, I'm cxhuy :) <br> I mostly do full-stack development, and recently I've been
 # Games
 [Nine](https://cxhuy.itch.io/nine) - a rock paper scissors rogue-like card game!
 
-[PTD: Pinball Tower Defense](https://cxhuy.github.io/ptd_web_final/) - it's tower defense, but pinball. It's pinball, but tower defense.
+[PTD: Pinball Tower Defense](https://cxhuy.itch.io/ptd) - it's pinball, but tower defense.
 
-[Cursurvive](https://cxhuy.github.io/cursurvive_web/) - play as a mouse cursor and survive from a swarm of evil shutdown buttons! 
+[Cursurvive](https://cxhuy.itch.io/cursurvive) - play as a mouse cursor and survive from a swarm of evil shutdown buttons! 
 
 # Tech Stack
 
