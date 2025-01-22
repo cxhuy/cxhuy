@@ -14,6 +14,10 @@ Hi, I'm cxhuy :) <br> I mostly do full-stack development, and recently I've been
 *Site is currently down and needs renewal.*
 
 # Games
+[Boardmancer](https://store.steampowered.com/app/3338490/Boardmancer/) - a unique deck building roguelike where your board is your deck! (First game on Steam)
+
+[Animal Town](https://alooreshoo.itch.io/animal-town) - a simple city building game where symbiosis is important! (Made for the 2024 UW-Respawn Game Jam)
+
 [Nine](https://cxhuy.itch.io/nine) - a rock paper scissors rogue-like card game!
 
 [PTD: Pinball Tower Defense](https://cxhuy.itch.io/ptd) - it's pinball, but tower defense.
